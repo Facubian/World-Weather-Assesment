@@ -14,6 +14,7 @@ Precipitation
 Air quality
 Wind conditions
 Timestamps (last_updated)
+
 ⚙️ Project Structure
 ├── notebook.ipynb
 ├── README.md
@@ -87,6 +88,7 @@ seaborn
 scikit-learn
 xgboost
 statsmodels
+
 ▶️ How to Run
 Clone the repository:
 git clone <repo-link>
