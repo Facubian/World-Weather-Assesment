@@ -98,27 +98,6 @@ Metrics reported: **RMSE** and **R²**, for both the with/without `feels_like_ce
 
 ---
 
-## 📦 Requirements
-
-```
-pandas
-numpy
-matplotlib
-seaborn
-scipy
-plotly
-scikit-learn
-xgboost
-jupyter
-```
-
-Install all with:
-```bash
-pip install -r requirements.txt
-```
-
----
-
 ## 📊 Key Results
 
 - **Day temperatures** are on average higher than night temperatures, as expected, with a wider distribution during daytime hours.
