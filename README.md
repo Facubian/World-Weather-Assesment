@@ -21,10 +21,11 @@ This project analyzes the [Global Weather Repository](https://www.kaggle.com/dat
 ```
 ├── PM_Accelerator_mission.ipynb   # Main notebook with all analyses
 ├── requirements.txt               # Required Python libraries
+├── GlobalWeatherRepository.zip    # Data used in this project
 └── README.md                      # This file
 ```
 
-> **Note:** The dataset is not included in this repository. Download it from [Kaggle](https://www.kaggle.com/datasets/nelgiriyewithana/global-weather-repository/code) and place it in the same directory as the notebook, or update the path in the loading cell.
+> **Note:** To run this code it's needed to unzip GlobalWeatherRepository.zip which contains the data used. Another option is to download it from [Kaggle](https://www.kaggle.com/datasets/nelgiriyewithana/global-weather-repository/code) and place it in the same directory as the notebook.
 
 ---
 
@@ -41,7 +42,8 @@ cd World-Weather-Assesment
 pip install -r requirements.txt
 ```
 
-**3. Download the dataset**
+**3. Unzip or Download the dataset**
+Unzip the GlobalWeatherRepository.zip file which contains the data used and place the csv in the project root. If running on Google Colab, upload it to `/content/` or update the path in the notebook's loading cell.
 
 Download `GlobalWeatherRepository.csv` from [Kaggle](https://www.kaggle.com/datasets/nelgiriyewithana/global-weather-repository/code) and place it in the project root. If running on Google Colab, upload it to `/content/` or update the path in the notebook's loading cell.
 
