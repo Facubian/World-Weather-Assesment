@@ -32,8 +32,8 @@ This project analyzes the [Global Weather Repository](https://www.kaggle.com/dat
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone [https://github.com/<your-username>/<repo-name>](https://github.com/Facubian/World-Weather-Assesment).git
+cd World-Weather-Assesment
 ```
 
 **2. Install dependencies**
